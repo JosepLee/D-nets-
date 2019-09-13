@@ -1,0 +1,104 @@
+﻿  D-nets.cpp
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(643): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1247): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1248): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1259): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1260): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1261): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1262): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1314): warning C4101: “s”: 未引用的局部变量
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1358): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1357): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1461): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1549): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1601): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1632): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1698): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2045): warning C4244: “return”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2067): warning C4244: “return”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2071): warning C4244: “return”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2401): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\program files (x86)\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2402): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\program files (x86)\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2403): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\program files (x86)\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2404): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\program files (x86)\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2405): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\program files (x86)\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2406): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\program files (x86)\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2407): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\program files (x86)\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2408): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\program files (x86)\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2511): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2832): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2965): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2969): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(3022): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(3523): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(3557): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(3763): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(3769): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(3776): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(3777): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(4135): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(4173): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(987): warning C4244: “参数”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+  c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(984): note: 编译 类 模板 成员函数 "void TAT2<double>::defineAsScaledRigidTransformation(REAL,REAL,TV2<REAL>)" 时
+          with
+          [
+              REAL=double
+          ]
+  c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2052): note: 参见对正在编译的函数 模板 实例化“void TAT2<double>::defineAsScaledRigidTransformation(REAL,REAL,TV2<REAL>)”的引用
+          with
+          [
+              REAL=double
+          ]
+  c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(1913): note: 参见对正在编译的 类 模板 实例化 "TAT2<double>" 的引用
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(988): warning C4244: “参数”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(940): warning C4244: “初始化”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+  c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(937): note: 编译 类 模板 成员函数 "REAL TAT2<REAL>::phiOut(REAL)" 时
+          with
+          [
+              REAL=double
+          ]
+  c:\users\j1ose\source\repos\d-nets\d-nets\d-nets.cpp(2041): note: 参见对正在编译的函数 模板 实例化“REAL TAT2<REAL>::phiOut(REAL)”的引用
+          with
+          [
+              REAL=double
+          ]
+  正在生成代码
+  1 of 1367 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  D-nets.vcxproj -> C:\Users\J1ose\source\repos\D-nets\x64\Release\D-nets.exe
